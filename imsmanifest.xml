@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_63XvcG6hNpn_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">desain inovasi inayah</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="desain_inovasi_inayah_ORG">
+    <organization identifier="desain_inovasi_inayah_ORG">
+      <title>desain inovasi inayah</title>
+      <item identifier="Transformasi_Energi__SCO" isvisible="true" identifierref="__63XvcG6hNpn_course_id_RES">
+        <title>desain inovasi inayah</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__63XvcG6hNpn_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/69pBfG4c9nl.png" />
+      <file href="mobile/5fyxa3wD2SZ.png" />
+      <file href="mobile/5gncE8QSVzI.png" />
+      <file href="mobile/5nWSTJLfVcS.png" />
+      <file href="mobile/5dDOFuMyBK7.png" />
+      <file href="mobile/6AY6YOLZ7Ck.png" />
+      <file href="mobile/6QTMh61SvGc.png" />
+      <file href="story_content/6n5mYiN7M1k_44100_48_0.mp3" />
+      <file href="story_content/5sjx2lEH7RK.html" />
+      <file href="mobile/5sjx2lEH7RK5sjz7k63abx{Width=682.6668, Height=384}Light.jpg" />
+      <file href="story_content/WebObjects/5uQ1iaAXrPJ/komik.html" />
+      <file href="story_content/WebObjects/5uQ1iaAXrPJ/komik.pdf" />
+      <file href="mobile/5uQ1iaAXrPJ5mT5myLnkxo{Width=758, Height=380}Light.jpg" />
+      <file href="story_content/WebObjects/5hySaKqr7Qe/ebook.pdf" />
+      <file href="story_content/WebObjects/5hySaKqr7Qe/index.html" />
+      <file href="story_content/WebObjects/5hySaKqr7Qe/index.txt" />
+      <file href="mobile/5hySaKqr7Qe6MzlyGHOnUo{Width=760, Height=368}Light.jpg" />
+      <file href="mobile/5ZzzFew7x6V6ZXNnmau9WA{Width=824, Height=424}Light.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6NLxn1AsJaz.jpg" />
+      <file href="mobile/Slide5t48Pc3Um6G.jpg" />
+      <file href="mobile/Slide5qt7VjDCe7k.jpg" />
+      <file href="mobile/Slide66V7FfNe7A8.jpg" />
+      <file href="mobile/Slide6Up5PjBmuDo.png" />
+      <file href="mobile/Slide5u5FAaStZ7m.png" />
+      <file href="mobile/Slide6qw2L8XyII9.jpg" />
+      <file href="mobile/Slide5d2e9KoqVEl.png" />
+      <file href="mobile/Slide5hlmyM2tvkl.png" />
+      <file href="mobile/Slide5dubyDyWfuA.png" />
+      <file href="mobile/Slide6YsPhF3bjdC.png" />
+      <file href="mobile/Slide5ngehFYyZhz.png" />
+      <file href="mobile/Slide5rXajfFDi0v.jpg" />
+      <file href="mobile/Slide5gw2WGZorwq.jpg" />
+      <file href="mobile/Slide6BRg2fRyOVE.png" />
+      <file href="mobile/Slide6fxLdFl0ey2.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5icpv2kSsd8.js" />
+      <file href="html5/data/js/5joEF2Oshqt.js" />
+      <file href="html5/data/js/5l8ZD9dzM6P.js" />
+      <file href="html5/data/js/5mND9lJtXeU.js" />
+      <file href="html5/data/js/5vlRxnwtYzJ.js" />
+      <file href="html5/data/js/6CZvdk3dY9G.js" />
+      <file href="html5/data/js/6DUdgdmyXFs.js" />
+      <file href="html5/data/js/6W7og9C5gl9.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
